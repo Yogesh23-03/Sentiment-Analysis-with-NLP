@@ -1,10 +1,17 @@
 # Sentiment-Analysis-with-NLP
 COMPANY: CODETECH IT SOLUTIONS 
+
 NAME: Yogesh S 
+
 INTERN ID: CT04WT294 
+
 DOMAIN: Machine Learning
+
 DURATION: 4 weeks from April 5th to May 5th, 2025 
+
 MENTOR: NEELA SANTOSH
+
+
 Sentiment Analysis with NLP
 This project performs sentiment analysis on a dataset of tweets using Natural Language Processing (NLP) techniques. The goal is to classify the sentiment of a tweet as either positive or negative.
 
